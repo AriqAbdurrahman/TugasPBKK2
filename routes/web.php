@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\barang;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -25,3 +26,4 @@ Route::get('/keranjang', function () {
     return view('keranjang');
 });
 
+Route::resource('products', 'ProductController');

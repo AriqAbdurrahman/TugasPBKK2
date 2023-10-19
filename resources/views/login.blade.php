@@ -71,7 +71,7 @@
                 <label for="password">Password:</label>
                 <input type="password" id="password" name="password" required>
             </div>
-            <button type="submit" class="login-button">Login</button>
+            <button type="submit" class=<p><a href="beranda">Login</a></p>
         </form>
     </div>
 </body>

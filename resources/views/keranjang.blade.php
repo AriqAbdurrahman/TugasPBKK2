@@ -65,11 +65,11 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#">Beranda</a></li>
-            <li><a href="#">Produk</a></li>
-            <li><a href="#">Tentang Kami</a></li>
-            <li><a href="#">Kontak</a></li>
-            <li><a href="#">logout</a></li>
+            <li><a href="beranda">Beranda</a></li>
+            <li><a href="produk">Produk</a></li>
+            <li><a href="tentang kami">Tentang Kami</a></li>
+            <li><a href="kontak">Kontak</a></li>
+            <li><a href="logout">logout</a></li>
         </ul>
     </nav>
     <div class="container">
